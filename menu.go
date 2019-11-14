@@ -85,13 +85,3 @@ func main(){
 		}		
 	}	
 }
-
-func AddUser(nim, password, nama string){	
-
-}
-func SearchUser(){
-
-}
-func Login(){
-
-}
